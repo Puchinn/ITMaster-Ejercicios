@@ -1,0 +1,14 @@
+h1,
+h2 {
+  text-align: center;
+  background-color: #a1a1a1;
+  color: #fff;
+}
+
+p {
+  color: #0f0;
+}
+
+p:nth-of-type(8) {
+  color: #00f;
+}
