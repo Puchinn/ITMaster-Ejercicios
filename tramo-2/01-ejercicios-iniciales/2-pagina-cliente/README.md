@@ -10,3 +10,4 @@ Crear una página (con html y css) para un cliente “ficticio”. Consigna:
 - ✅ En los textos modificar: color, tipografía y tamaño de la fuente (todos a tu elección, buscando la mejor opción que consideres para este ejercicio)
 - ✅ Ajustar márgenes para ofrecer la mejor experiencia de lectura al usuario
 - ✅ Al final se puede agregar un pie de página con más datos de la empresa ficticia (puede ser un div con un párrafo en un tamaño de texto más pequeño).
+
