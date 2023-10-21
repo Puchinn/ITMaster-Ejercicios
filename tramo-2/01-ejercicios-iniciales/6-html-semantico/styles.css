@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #000;
+  text-align: center;
+  padding: 15px 0;
+  color: #fff;
+}
+
+main {
+  padding: 20px 0;
+}
+
+main>h2:first-child {
+  text-align: center;
+  font-size: 24px;
+}
+
+section {
+  max-width: max-content;
+  margin: 20px auto;
+}
+
+footer {
+  background-color: aquamarine;
+  text-align: center;
+  padding: 15px;
+}
