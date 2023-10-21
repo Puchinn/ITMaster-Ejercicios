@@ -1,4 +1,4 @@
-Crear con HTML y CSS una estructura como la que se muestra en la siguiente imagen:
+✅|Crear con HTML y CSS una estructura como la que se muestra en la siguiente imagen:
 
 <img src="https://aula-itm.web.app/ap/web/ejercicio3-3.jpg">
 
