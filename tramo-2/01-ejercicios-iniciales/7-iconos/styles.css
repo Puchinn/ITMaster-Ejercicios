@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 50px;
+}
+
+.icons-container {
+  background-color: azure;
+  padding: 15px;
+  border-radius: 14px;
+  display: flex;
+  gap: 15px;
+  justify-content: space-around;
+}
+
+i {
+  font-size: 45px;
+  color: #727272;
+  cursor: pointer;
+  transition: all .3s;
+}
+
+i:hover {
+  transform: scale(1.1);
+}
