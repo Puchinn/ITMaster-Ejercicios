@@ -1,9 +1,9 @@
-Crear un modelo con HTML y CSS como el que se muestra a continuación:
+✅Crear un modelo con HTML y CSS como el que se muestra a continuación:
 <img src="https://aula-itm.web.app/ap/web/ejercicio9laptop.jpg">
 
 Detalle: el link del texto de la publicidad debe tener una transición en el :hover al cambiar el color del texto.
 
-Utilizando Media Queries, ajustar el aspecto visual a partir de 1024px (y dimensiones inferiores) como se ve a continuación:
+✅Utilizando Media Queries, ajustar el aspecto visual a partir de 1024px (y dimensiones inferiores) como se ve a continuación:
 
 <img src="https://aula-itm.web.app/ap/web/ejercicio9movil.jpg">
 
