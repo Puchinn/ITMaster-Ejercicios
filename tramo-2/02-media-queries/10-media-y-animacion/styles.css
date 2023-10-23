@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 10px;
+}
+
+.animate-div {
+  width: 700px;
+  height: 700px;
+  background-color: blue;
+  color: #fff;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: animate 4s infinite;
+}
+
+@keyframes animate {
+  50% {
+    border-radius: 50%;
+    background-color: green;
+    font-size: 4rem;
+  }
+
+  100% {
+    border-radius: none;
+    background-color: blue;
+  }
+}
