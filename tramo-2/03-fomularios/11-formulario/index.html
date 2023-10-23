@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Formulario</title>
+</head>
+
+<body>
+
+  <form>
+    <h1>Agregar sucursal</h1>
+    <label for="nombre-sucursal">
+      Nombre de la sucursal
+      <input required type="text" name="nombre-sucursal" id="nombre-sucursal">
+    </label>
+
+    <label for="email-sucursal">
+      Correo electronico de la sucursal
+      <input type="email" name="email-sucursal" id="email-sucursal">
+    </label>
+
+    <label for="direccion-sucursal">
+      Direccion de la sucursal
+      <input required type="text" name="direccion-sucursal" id="direccion-sucursal">
+    </label>
+
+    <label for="region">
+      Region
+      <select name="region" id="region">
+        <option>Elegir...</option>
+        <option value="norte">Norte</option>
+        <option value="sur">Sur</option>
+        <option value="este">Este</option>
+        <option value="centro">Centro</option>
+      </select>
+    </label>
+
+    <button type="submit">Agregar</button>
+
+  </form>
+
+</body>
+
+</html>
