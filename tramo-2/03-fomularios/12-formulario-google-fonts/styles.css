@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&family=Poppins:wght@200;300;400;500;600;900&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  padding: 15px;
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: 'Nosifer', sans-serif;
+}
+
+h1 {
+  padding: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 15px;
+}
+
+input,
+textarea {
+  width: 100%;
+}
+
+input {
+  height: 35px;
+}
+
+button {
+  border: none;
+  outline: none;
+  width: 100%;
+  background-color: blue;
+  color: #fff;
+  padding: 10px;
+  font-family: 'Nosifer', sans-serif;
+}
