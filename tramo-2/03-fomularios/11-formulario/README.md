@@ -8,6 +8,6 @@ Los campos que deberá contener son:
 - Región (select con las opciones: Elegir…, Sur, Centro, Norte)
 - Botón para enviar (submit)
 
-Visualmente, el formulario debe verse como se muestra a continuación:
+✅ Visualmente, el formulario debe verse como se muestra a continuación:
 
 <img src="https://aula-itm.web.app/ap/web/ejercicio11.jpg">
