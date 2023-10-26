@@ -1,0 +1,19 @@
+h1 {
+  padding: 25px 0;
+  text-align: center;
+  color: rgb(60, 60, 60);
+  font-family: cursive;
+}
+
+h2 {
+  padding: 25px 0;
+  text-align: center;
+  color: rgb(60, 60, 60);
+  font-family: cursive;
+}
+
+p {
+  padding: 15px 0;
+  font-family: cursive;
+  color: rgb(87, 87, 87);
+}
