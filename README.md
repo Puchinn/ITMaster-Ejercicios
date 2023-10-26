@@ -1,5 +1,20 @@
-### Repositorio para ejercicios del curso ITMaster - Web Full Stack
+<div align="center">
 
+<img src="https://www.itmaster.com.ar/img/logo_white.svg">
+
+# ITMaster - Coding Academy 
+
+Curso de **Programacion Web Full Stack** - [Ver sitio Web](https://www.itmaster.com.ar/)
+
+</div>
+
+## 📃 Sobre ITMaster Coding Academy
+
+**Somos un grupo de programadores y profesores que hace 17 años desarrollamos los programas más efectivos y actualizados para aprender a programar y para capacitar a programadores en nuevas tecnologías.**
+
+3 a 6 meses (270 horas) - Modalidad online en vivo.
+
+## 📚 Temario
 #### Tramo 2 : HTML y CSS
   - Introducción al Front End
   - Trabajando con la consola y Git
