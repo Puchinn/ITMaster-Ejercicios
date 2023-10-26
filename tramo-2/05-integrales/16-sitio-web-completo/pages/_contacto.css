@@ -1,0 +1,42 @@
+h1 {
+  padding: 25px 0;
+  text-align: center;
+  color: rgb(60, 60, 60);
+  font-family: cursive;
+}
+
+form {
+  max-width: 600px;
+  margin: auto;
+}
+
+label {
+  display: block;
+  font-size: 21px;
+  font-family: cursive;
+  color: rgb(69, 69, 69);
+  margin: 7px;
+}
+
+input {
+  display: block;
+  outline: none;
+  border: none;
+  font-size: 19px;
+  height: 32px;
+  width: 100%;
+  border: 1px solid #c2c2c2;
+  border-radius: 7px;
+  margin-top: 5px;
+}
+
+textarea {
+  display: block;
+  outline: none;
+  border: none;
+  font-size: 19px;
+  width: 100%;
+  border: 1px solid #c2c2c2;
+  border-radius: 7px;
+  margin-top: 5px;
+}
