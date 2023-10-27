@@ -28,7 +28,7 @@ if ( nombre.length > 3 && apellido.length > 3 ) {
 </code></pre>
 
 **Ejercicio 2 -**
-Utilizando while mostrar en consola desde 500 a 1000, inclusive, incrementando de a 20.
+Utilizando <code>while</code> mostrar en consola desde 500 a 1000, inclusive, incrementando de a 20.
 - No mostrar los números 900 y 980.
 
 resolución - **Codigo JavaScript** :
@@ -47,3 +47,15 @@ nroInicial += 20
 
 </code></pre>
 
+**Ejercicio 3 -**
+Utilizando <code>for</code> mostrar en consola desde 800 a 100, bajando de 50 en 50.
+- No mostrar los números 500 y 400.
+
+<pre><code>
+for( let i = 800; i >= 100; i -= 20 ){
+  if(i === 500 | i === 400){
+    continue
+  }
+  console.log(i) // 800 780 760 740 ...
+}
+</code></pre>
