@@ -51,11 +51,30 @@ nroInicial += 20
 Utilizando <code>for</code> mostrar en consola desde 800 a 100, bajando de 50 en 50.
 - No mostrar los números 500 y 400.
 
+resolución - **Codigo JavaScript** :
 <pre><code>
 for( let i = 800; i >= 100; i -= 20 ){
   if(i === 500 | i === 400){
     continue
   }
   console.log(i) // 800 780 760 740 ...
+}
+</code></pre>
+
+**Ejercicio 4 -**
+Crear un `array` que tenga los siguientes colores: *rojo*, *azul*, *verde*, *amarillo*, *naranja*, *marrón*, *violeta*, *rosa*.
+
+- Recorrerlos con un `for of` y mostrar los colores que comienzan con r.
+- Y los que comienzan con v.
+
+resolución - **Codigo JavaScript** :
+
+<pre><code>
+const colores = ["rojo", "azul", "verde","amarillo", "naranja","marrón","violeta","rosa"]
+
+for (color of colores){
+  if (color.startsWith("r") | color.startsWith("v") ){
+    console.log(color) // "rojo" "verde" "violeta" "rosa"
+  }
 }
 </code></pre>
