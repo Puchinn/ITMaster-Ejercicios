@@ -78,3 +78,21 @@ for (color of colores){
   }
 }
 </code></pre>
+
+**Ejercicio 5 -**
+Crear un `array` con los siguientes números: 1000, 500, 50, 10, 900, 750, 150, 555, 720, 730.   
+
+Mostrar los números que cumplen con la siguiente consigna:
+- Mayores que 200
+- Menores que 800
+
+resolución - **Codigo JavaScript** :
+<pre><code>
+const numeros = [1000, 500, 50, 10, 900, 750, 150, 555, 720, 730]
+
+numeros.forEach(numero =>{
+  if(numero > 200 && numero < 800){
+    console.log(numero) // 500 750 555 720 730
+  }
+})
+</code></pre>
