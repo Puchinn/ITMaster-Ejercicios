@@ -53,11 +53,11 @@ Utilizando `for` mostrar en consola desde 800 a 100, bajando de 50 en 50.
 
 resolución - **Codigo JavaScript** :
 <pre><code>
-for( let i = 800; i >= 100; i -= 20 ){
+for( let i = 800; i >= 100; i -= 50 ){
   if(i === 500 | i === 400){
     continue
   }
-  console.log(i) // 800 780 760 740 ...
+  console.log(i) // 800 750 700 ...
 }
 </code></pre>
 
