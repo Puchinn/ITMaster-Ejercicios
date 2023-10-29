@@ -1,4 +1,4 @@
-**Ejercicio 10 -**  
+✅**Ejercicio 10 -**  
 Primero crear un documento HTML:
 
 - Crear un div con id caja
