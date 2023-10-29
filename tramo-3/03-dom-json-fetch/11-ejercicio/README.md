@@ -1,0 +1,1 @@
+**Ejercicio 11 -** Dentro de un div contenedor crear 5 párrafos. A tocar sobre un párrafo debe borrarse dicho párrafo (utilizar remove())
