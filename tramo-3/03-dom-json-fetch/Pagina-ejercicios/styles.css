@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(234, 245, 245);
+}
+
+h1 {
+  text-align: center;
+  padding: 30px;
+  font-size: 38px;
+  color: rgb(58, 57, 57);
+}
+
+section {
+  max-width: 500px;
+  margin: 15px auto;
+  padding: 15px;
+}
+
+h2 {
+  color: #4b4b4b;
+  padding: 9px 0;
+}
+
+button {
+  padding: 5px;
+}
+
+.parrafo-11 {
+  border: 1px solid #c2c2c2;
+  margin: 5px 0;
+  padding: 4px;
+  cursor: pointer;
+}
+
+#contenedor-14 {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+#contenedor-14>div>p {
+  max-width: 70px;
+  font-size: 14px;
+}
+
+#contenedor-14>div>img {
+  width: 70px;
+}
+
+.p-tareas {
+  color: rgb(126, 185, 126);
+  font-weight: 600;
+  border: 1px solid #c2c2c2;
+  margin: 5px 0;
+  padding: 5px;
+}
+
+.libro {
+  border: 1px solid #c2c2c2;
+  padding: 5px;
+  margin: 5px 0;
+}
