@@ -50,3 +50,15 @@ button {
 p {
   padding: 5px 0;
 }
+
+#lista-20 {
+  list-style: none;
+}
+
+label {
+  display: block;
+}
+
+summary {
+  cursor: pointer;
+}
